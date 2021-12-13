@@ -1,0 +1,1 @@
+复现测试 log4j 的  jndi:rmi 问题
